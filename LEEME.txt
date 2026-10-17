@@ -1,0 +1,44 @@
+ECOHORIZONTE — SITIO EDUCATIVO SOBRE EL MEDIO AMBIENTE
+
+CÓMO ABRIR EL SITIO
+1. Extrae TODO el archivo ZIP en una carpeta.
+2. Abre index.html con Chrome, Edge, Firefox o Safari.
+3. Navega a los cinco apartados desde el menú superior.
+No necesita instalaciones, servidor ni conexión para mostrar sus páginas e imágenes.
+Los enlaces a las fuentes académicas sí requieren conexión.
+
+ESTRUCTURA
+index.html: portada.
+medio-ambiente.html: fundamentos y componentes del entorno.
+biodiversidad.html: niveles de diversidad y conservación.
+cambio-climatico.html: causas, conceptos y respuestas.
+recursos-naturales.html: agua, suelo, energía y circularidad.
+accion-sostenible.html: metodología de proyectos y plan personal.
+styles.css: colores, diseño, estilos móviles y de impresión.
+script.js: menú móvil, selección de acciones, descarga del plan, carrusel de paisajes y efectos de profundidad.
+assets/: cinco fotografías y el icono del sitio.
+
+EDICIÓN
+Edita los HTML para cambiar textos y enlaces. Los colores están declarados al inicio de styles.css. Conserva la estructura de carpetas y los nombres de archivo para no romper enlaces.
+
+PLAN PERSONAL
+Funciona sin cuentas ni base de datos. Guarda la selección en este navegador si el almacenamiento está habilitado. La persistencia al abrir archivos locales puede variar según el navegador; descarga el plan como TXT para conservarlo. Los registros no se comparten entre dispositivos ni miden impacto ambiental real.
+
+CONTENIDO Y REFERENCIAS
+Proyecto académico en español. Cada apartado incluye fuentes oficiales y actividades originales de observación y análisis. No se presentan cifras de impacto ni certificaciones de una organización real. EcoHorizonte es el nombre de este proyecto educativo.
+
+CRÉDITOS DE FOTOGRAFÍA
+Fotografías de Unsplash, incorporadas localmente. Son ilustrativas y no representan una ubicación geográfica identificada.
+Bosque: https://images.unsplash.com/photo-1441974231531-c6227db76b6e
+Ave: https://images.unsplash.com/photo-1444464666168-49d633b86797
+Agua: https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2
+Paneles solares: https://images.unsplash.com/photo-1508514177221-188b1cf16e9d
+Hojas: https://images.unsplash.com/photo-1518531933037-91b2f5f229cc
+Licencia de consulta: https://unsplash.com/license
+Icono vegetal: SVG original del proyecto.
+
+VERIFICACIÓN
+Se verificaron la sintaxis de JavaScript, las rutas de los enlaces y recursos locales, los seis archivos HTML y la integridad del ZIP. No se realizó una prueba visual automatizada en navegador en este entorno.
+
+FONDO INTERACTIVO
+La portada alterna tres paisajes cada 6,5 segundos. Usa las flechas para elegir una imagen y Pausar para detener la rotación. El teclado pausa el cambio al enfocar un control. Las imágenes responden suavemente al cursor en ordenadores. En móviles, los controles funcionan mediante toque. Si el dispositivo solicita reducir movimiento, no comienza la rotación automática y se desactivan los efectos de profundidad.
